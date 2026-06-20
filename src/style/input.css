@@ -42,6 +42,14 @@
     --font-Morraba-Bold: "Morraba Bold";
     --font-Morraba-Light: "Morraba Light";
 
+    --tracking-tightest: -0.065em
+
+}
+
+body{
+    background-image: url(../img/headerBgDesktop.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
